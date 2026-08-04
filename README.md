@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pocket-paste-icon.png" width="180" alt="Pocket Paste icon" />
+<img src="https://github.com/user-attachments/assets/bb7d30d0-adcd-4827-af88-73d188050a5e" width="180" height="180" alt="Pocket Paste" />
 
 # Pocket Paste
 
