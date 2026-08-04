@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/pocket-paste-icon.png" width="180" alt="Pocket Paste icon" />
+
 # Pocket Paste
 
 ### A quieter way to remember what you copy
